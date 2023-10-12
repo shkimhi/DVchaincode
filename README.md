@@ -14,4 +14,3 @@ To install and instantiate the Java version of `FabCar`, use the following comma
 *NOTE:* After navigating to the documentation, choose the documentation version that matches your version of Fabric
 =======
 # DVchaincode
->>>>>>> origin/main
