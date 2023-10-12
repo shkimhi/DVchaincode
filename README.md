@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Java FabCar contract sample
 
 The directions for using this sample are documented in the Hyperledger Fabric
